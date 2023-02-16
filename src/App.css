@@ -5,3 +5,7 @@
 	align-items: center;
 	flex-direction: column;
 }
+
+.main div {
+	margin-bottom: 20px;
+}
